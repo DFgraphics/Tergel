@@ -10,7 +10,7 @@
 # Overrides for tile types
 # [OVERRIDE:Tile:T:Type:Tileset:NewTile:NewFg:NewBg]
 
-[TILESET:16x16_Tergel_Custom.png:16x16_Tergel_Custom.png:Tergel]
+[TILESET:_32x32_Tergel_Custom.png:_32x32_Tergel_Custom.png:Tergel]
 
 [OVERRIDE:88:I:BIN:BIN::Tergel:1]
 

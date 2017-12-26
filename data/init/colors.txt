@@ -1,5 +1,7 @@
 CowThing
 
+This color scheme is for a softer, happier game. Colors were chosen for easy visibility and to be easy on the eyes. 
+
 [BLACK_R:49]
 [BLACK_G:49]
 [BLACK_B:62]

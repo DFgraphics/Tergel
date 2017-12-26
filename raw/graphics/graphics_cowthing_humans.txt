@@ -3,8 +3,8 @@ graphics_cowthing_humans
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:COW_H]
-	[FILE:cowthing/16xTergel.png]
-	[TILE_DIM:16:16]
+	[FILE:cowthing/32xTergel.png]
+	[TILE_DIM:32:32]
 	[PAGE_DIM:4:5]
 
 [CREATURE_GRAPHICS:HUMAN]

@@ -1,9 +1,10 @@
 {
     "author": "CowThing",
-    "content_version": "5.0",
+    "url": "http://www.bay12forums.com/smf/index.php?topic=145802.0",
+    "content_version": "v5.0 (2012-12-14)",
     "df_min_version": "0.42.05",
     "df_max_version": "",
-    "title": "Tergel 16px",
+    "title": "Tergel 12/16/32x",
     "folder_prefix": "Tergel",
     "tooltip": "Tergel is an ASCII tileset combined with simple pixel art, to enhance\nthe ASCII feel, while keeping the game readable, and giving the game a happier feel."
 }
